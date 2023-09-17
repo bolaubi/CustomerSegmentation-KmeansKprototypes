@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fdcc29c-9241-4ca5-91d9-d2a31fdae4f7" name="Default Changelist" comment="C1.0.3 - Fixing Markdown Image" />
+    <list default="true" id="7fdcc29c-9241-4ca5-91d9-d2a31fdae4f7" name="Default Changelist" comment="C1.0.3 - Fixing Markdown Image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustSegment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CustSegment.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
       <workItem from="1694936052384" duration="175000" />
       <workItem from="1694936244149" duration="38000" />
       <workItem from="1694936309783" duration="57000" />
-      <workItem from="1694936390347" duration="2506000" />
+      <workItem from="1694936390347" duration="3868000" />
     </task>
     <task id="LOCAL-00001" summary="C1.0.1 - Fixing Markdown Pictures">
       <created>1694942029548</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694942617772</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="C1.0.3 - Fixing Markdown Image">
+      <created>1694944474208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694944474208</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
