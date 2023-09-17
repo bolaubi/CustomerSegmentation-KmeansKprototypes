@@ -62,7 +62,7 @@ A more recent method in clustering is to use KPrototypes from [Huang's Research]
 
    
 
-4. The correlation rankings between products and places (channels)
+4. The correlation rankings between products and places (marketing channels)
 
    ![df_prodHCPlace](pic/df_prodHCPlace.png)
 

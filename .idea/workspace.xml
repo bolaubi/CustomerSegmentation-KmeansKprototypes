@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fdcc29c-9241-4ca5-91d9-d2a31fdae4f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/CustSegment-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustSegment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CustSegment.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/df_prodHCPlace.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/df_prodHCPlace.png" afterDir="false" />
-    </list>
+    <list default="true" id="7fdcc29c-9241-4ca5-91d9-d2a31fdae4f7" name="Default Changelist" comment="C1.0.1 - Fixing Markdown Pictures" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +33,16 @@
       <workItem from="1694936052384" duration="175000" />
       <workItem from="1694936244149" duration="38000" />
       <workItem from="1694936309783" duration="57000" />
-      <workItem from="1694936390347" duration="820000" />
+      <workItem from="1694936390347" duration="1576000" />
     </task>
+    <task id="LOCAL-00001" summary="C1.0.1 - Fixing Markdown Pictures">
+      <created>1694942029548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694942029548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,5 +59,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="C1.0.1 - Fixing Markdown Pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="C1.0.1 - Fixing Markdown Pictures" />
   </component>
 </project>
