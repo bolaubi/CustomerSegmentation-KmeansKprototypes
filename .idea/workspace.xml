@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fdcc29c-9241-4ca5-91d9-d2a31fdae4f7" name="Default Changelist" comment="C1.0.3 - Fixing Markdown Image">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustSegment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CustSegment.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7fdcc29c-9241-4ca5-91d9-d2a31fdae4f7" name="Default Changelist" comment="C1.0.5 - Adding Description" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,7 @@
       <workItem from="1694936052384" duration="175000" />
       <workItem from="1694936244149" duration="38000" />
       <workItem from="1694936309783" duration="57000" />
-      <workItem from="1694936390347" duration="3984000" />
+      <workItem from="1694936390347" duration="4853000" />
     </task>
     <task id="LOCAL-00001" summary="C1.0.1 - Fixing Markdown Pictures">
       <created>1694942029548</created>
@@ -87,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1694957605708</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="C1.0.3 - Fixing Markdown Image">
+      <created>1694957647480</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694957647480</updated>
+    </task>
+    <task id="LOCAL-00009" summary="C1.0.4 - Adding Description">
+      <created>1694957843909</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694957843909</updated>
+    </task>
+    <task id="LOCAL-00010" summary="C1.0.5 - Adding Description">
+      <created>1694957884561</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694957884561</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +127,8 @@
     <MESSAGE value="C1.0.1 - Fixing Markdown Pictures" />
     <MESSAGE value="C1.0.2 - Fixing Markdown" />
     <MESSAGE value="C1.0.3 - Fixing Markdown Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="C1.0.3 - Fixing Markdown Image" />
+    <MESSAGE value="C1.0.4 - Adding Description" />
+    <MESSAGE value="C1.0.5 - Adding Description" />
+    <option name="LAST_COMMIT_MESSAGE" value="C1.0.5 - Adding Description" />
   </component>
 </project>
