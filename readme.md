@@ -96,8 +96,6 @@ A more recent method in clustering is to use KPrototypes from [Huang's Research]
 
    
 
-
-
 ## 04: Profile
 
 © Benedict Laiman 2023
