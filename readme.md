@@ -6,7 +6,35 @@
 
 Photo by [BOXEDWATER](https://unsplash.com/@boxedwater) on [Unsplash](https://unsplash.com/photos/7H1hDt694s8)
 
-## 01: Introduction
+## 01: Project Table of Content
+
+01 Introduction
+
+02 Exploratory Data Analysis Pre-Clustering
+
+- 02.01 Importing Libraries
+- 02.02 Importing Data
+- 02.03 Data Understanding
+- 02.04 Feature Engineering
+- 02.05 Checking the Descriptive Statistics
+- 02.06 Creating RF (Recency Frequency) Analysis
+- 02.07 Analyzing the Relationship Between Number of Children, Number of Occupancy, and Total Spending
+
+03 KMeans Clustering
+
+- 03.01 Preprocessing
+- 03.02 Clustering with KMeans
+- 03.03 Analyzing the KMeans Clusters
+- 03.04 Profiling the KMeans Clusters
+
+04 KPrototypes Clustering
+
+- 04.01 Preprocessing
+- 04.02 Clustering with KPrototypes
+- 04.03 Analyzing the KPrototypes Clusters
+- 04.04 Profiling the KPrototypes Clusters
+
+## 02: Introduction
 
 **The project's primary goal** is to utilize the K-Means and K-Prototypes algorithms for the purpose of customer segmentation, accompanied by a comprehensive exploratory data analysis of the given dataset.
 
@@ -30,7 +58,7 @@ A more recent method in clustering is to use KPrototypes from [Huang's Research]
 
 **Project File:** "CustSegment.ipynb"
 
-## 02: Some Findings
+## 03: Some Findings
 
 1. Profiles from KMeans Clustering
 
@@ -67,34 +95,6 @@ A more recent method in clustering is to use KPrototypes from [Huang's Research]
    ![df_prodHCPlace](pic/df_prodHCPlace.png)
 
    
-
-## 03: Project Table of Content
-
-01 Introduction
-
-02 Exploratory Data Analysis Pre-Clustering
-
-- 02.01 Importing Libraries
-- 02.02 Importing Data
-- 02.03 Data Understanding
-- 02.04 Feature Engineering
-- 02.05 Checking the Descriptive Statistics
-- 02.06 Creating RF (Recency Frequency) Analysis
-- 02.07 Analyzing the Relationship Between Number of Children, Number of Occupancy, and Total Spending
-
-03 KMeans Clustering
-
-- 03.01 Preprocessing
-- 03.02 Clustering with KMeans
-- 03.03 Analyzing the KMeans Clusters
-- 03.04 Profiling the KMeans Clusters
-
-04 KPrototypes Clustering
-
-- 04.01 Preprocessing
-- 04.02 Clustering with KPrototypes
-- 04.03 Analyzing the KPrototypes Clusters
-- 04.04 Profiling the KPrototypes Clusters
 
 
 
