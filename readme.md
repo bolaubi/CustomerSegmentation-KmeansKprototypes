@@ -1,4 +1,4 @@
-# Customer Segmentation - KMeans, KProtoypes
+# Customer Segmentation - KMeans, KPrototypes
 
 <hr>
 
