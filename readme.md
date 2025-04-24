@@ -98,10 +98,6 @@ A more recent method in clustering is to use KPrototypes from [Huang's Research]
 
 ## 04: Profile
 
-© Benedict Laiman 2023
 
-Get in touch with me through:
-
-- [Linkedin](https://www.linkedin.com/in/benedict-laiman-60401319a/)
 - [Discord](https://discordapp.com/users/525654231940857867/)
 
